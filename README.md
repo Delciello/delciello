@@ -1,10 +1,10 @@
-👨‍💻 Vinicius Del Ciello
+# 👨‍💻 <strong>Vinicius Del Ciello</strong>
+
 
 Olá! Meu nome é Vinicius Del Ciello, tenho 29 anos e trabalho com tecnologia desde 2014. Em 2024, decidi me aprofundar na área de desenvolvimento e iniciei minha formação em desenvolvimento full-stack pelo Senac. Atualmente, estou em busca de pequenos projetos que me permitam ganhar experiência prática e continuar evoluindo como desenvolvedor.
 
 
 ### 👀 Linguagens e Tecnologias
-
 
 <img 
     align="left" 
